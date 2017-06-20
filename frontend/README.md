@@ -1,3 +1,8 @@
+
+ADE NURUL MUBIN / 2014157007
+
+AMALIYAH / 2014157020
+
 # Angular
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
